@@ -66,8 +66,7 @@ elmo-hikes/
 
 
 ## Contributors
-- **Your Name** - BCIT CST Student with a passion for outdoor adventures and user-friendly applications. Fun fact: Loves solving Rubik's Cubes in under a minute.
-- **Teammate Name** - BCIT CST Student, Frontend enthusiast with a knack for creative design. Fun fact: Has a collection of over 50 houseplants.
+- **Hoda Rashedi** - BCIT CST educator with a passion for figure skating. I like the roles that involve leaderships although I always feel like why did I accept this role in the middle of it.
 
 ---
 
