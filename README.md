@@ -68,12 +68,7 @@ elmo-hikes/
 ## Contributors
 - **Hoda Rashedi** - BCIT CST educator with a passion for figure skating. I like the roles that involve leaderships although I always feel like why did I accept this role in the middle of it.
 
-- **Carly Orr** BCIT Instructor, I like poetry and kites, and random innovations.
-
-- **Mystery Member**
-- **Extra**
-
----
+- **Carly Orr** BCIT Instructor, I like poetry and kites, and random innovations. Oh yes, and I like to grow herbs in my garden. 
 
 
 ## Acknowledgments
