@@ -69,6 +69,11 @@ elmo-hikes/
 - **Hoda Rashedi** - create conflict - BCIT CST educator with a passion for figure skating. I like the roles that involve leaderships although I always feel like why did I accept this role in the middle of it.
 - **Hoda2** I am not sure if this creates a conflict
 
+- **Carly Orr** BCIT Instructor, I like poetry and kites, and random innovations.
+
+- **Mystery Member**
+- **Extra**
+
 ---
 
 
