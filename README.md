@@ -71,9 +71,6 @@ elmo-hikes/
 - **Carly Orr** BCIT Instructor, I like poetry and kites, and random innovations. Oh yes, and I like to grow herbs in my garden. 
 
 
----
-
-
 ## Acknowledgments
 
 - Trail data and images are for demonstration purposes only.
